@@ -1,3 +1,7 @@
+<?php
+session_start();
+$gameStateJSON = isset($_SESSION['gameState']) ? json_encode($_SESSION['gameState']) : 'null';
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,7 +11,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
     <script>
-        window.gameStateFromServer = null;
+        window.gameStateFromServer = <?php echo $gameStateJSON; ?>;
     </script>
 </head>
 <body>
