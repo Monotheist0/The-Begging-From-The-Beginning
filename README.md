@@ -14,27 +14,11 @@ A PHP & JavaScript based idle clicker game simulating a journey of a "Beggar" in
 
 ---
 
-## 🚀 How to Run the Game Locally
+## Run the Game
 
-To run "The Begging: From the Beginning" on your local machine, you'll need a web server environment that supports PHP, like XAMPP.
+https://begging.cristal-node.workers.dev/welcome.html
 
-1.  **Prerequisites:**
-    * Install XAMPP (or a similar package like WAMP for Windows, MAMP for Mac). Make sure Apache and PHP are running. You can download XAMPP from [apachefriends.org](https://www.apachefriends.org/).
-
-2.  **Setup Instructions:**
-    * **Clone or Download:**
-        * If you have Git: `git clone https://github.com/your-username/your-repository-name.git`
-        * Alternatively, download the project ZIP from GitHub and extract it.
-    * **Place Project Folder:** Move the entire project folder (e.g., `The-Begging-From-The-Beginning`) into your XAMPP `htdocs` directory.
-        * On Windows, this is usually `C:\xampp\htdocs\`
-        * On macOS, this is usually `/Applications/XAMPP/htdocs/`
-    * **Start XAMPP:** Open the XAMPP Control Panel and start the **Apache** module. (MySQL is not strictly required for this game's current features, but it's okay if it's running).
-    * **Access the Game:** Open your web browser and navigate to:
-        `http://localhost/your-project-folder-name/`
-        (e.g., `http://localhost/The-Begging-From-The-Beginning/`)
-
-    The game should now load and be playable! Your progress will be saved using PHP sessions on your local server.
-
+[Cristal](https://github.com/cristal-node) doing some magic to make it run on the web 🤲
 
 ---
 
@@ -42,6 +26,7 @@ To run "The Begging: From the Beginning" on your local machine, you'll need a we
 
 * **[Shoytanbaba99]**
     * (https://github.com/shoytanbaba99)
+
 
 ---
 
