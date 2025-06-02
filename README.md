@@ -18,7 +18,7 @@ A PHP & JavaScript based idle clicker game simulating a journey of a "Beggar" in
 
 https://begging.cristal-node.workers.dev/welcome.html
 
-[Cristal](https://github.com/cristal-node) doing some magic to make it run on the web 🤲
+[Cristal](https://github.com/cristal-node) did some magic to make it run on the web 🤲
 
 ---
 
