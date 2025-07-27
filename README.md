@@ -30,4 +30,4 @@ https://begging.cristal-node.workers.dev/welcome.html
 
 ---
 
-* This project was developed as part of [Internet Programming Lab] Course.
+*Initially for [Internet Programming Lab], but quickly became a personal challenge: build a full idle clicker game in one day with no prior knowledge, co-authored with AI. This is the raw result. 
