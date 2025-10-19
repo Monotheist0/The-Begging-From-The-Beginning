@@ -24,8 +24,7 @@ https://begging.cristal-node.workers.dev/welcome.html
 
 ## 🧑‍💻 Author
 
-* **[Shoytanbaba99]**
-    * (https://github.com/shoytanbaba99)
+* **[[Monotheist0]](https://github.com/Monotheist0/Monothiest0)**
 
 
 ---
